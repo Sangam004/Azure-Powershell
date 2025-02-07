@@ -21,5 +21,3 @@ Here’s a quick breakdown of NIC limits based on the VM size:
 - **Standard_M64ms (64 vCPUs, 1 TB RAM):** Supports **up to 8 NICs**.
 
 The actual number of NICs supported depends on the **VM size** and the **Azure region** you're deploying in. It's always a good idea to check the official [Azure documentation on VM sizes and capabilities](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes) for the most up-to-date information.
-
-Let me know if you need additional info!
